@@ -34,6 +34,7 @@ Keyboard shortcuts:
 
 The editor works fine on the phone's web browser. Obviously, it's easier to write on the phone with the editor in single screen mode.
 
+During preview and save actions, the JavaScript code displays the word count (wc) and reading time (rt) info at the top of the editor. During a save action, the time of the last saved is displayed, which remains at the top of the editor. This info is not shown in the older screenshots displayed below.
 
 The default writing environment. The button with the arrows pointing right is used to switch to single screen mode. The button with the arrows point left is used to switch to split screen mode.
 
@@ -64,6 +65,5 @@ This is a desktop / laptop view after hitting ctrl-d to change the default color
 This is a desktop / laptop view after hitting ctrl-h to reduce the writing window to only five lines tall.
 
 ![](https://c1.staticflickr.com/1/750/21723990313_06f7a469a0_z.jpg)
-
 
 
